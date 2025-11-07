@@ -1,7 +1,7 @@
 {
     "chatroom_id": "45094540",
-    "min_delay_seconds": 120, 
-    "max_delay_seconds": 1200, 
+    "min_delay_seconds": 30, 
+    "max_delay_seconds": 120, 
     "max_tokens_to_use": 30,
     "message_pool": [
         "hola beto",
